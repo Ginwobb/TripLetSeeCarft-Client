@@ -26,7 +26,7 @@
 ---
 <img src="https://img5.pic.in.th/file/secure-sv1/Screen-Shot-2024-11-23-at-7.09.58-PM.png" alt="Screen Shot 2024 11 23 at 7.09.58 PM" border="0" style="width: 75%; height: auto;">
 <img src="https://img5.pic.in.th/file/secure-sv1/Screen-Shot-2024-11-23-at-7.23.28-PM.png" alt="Screen Shot 2024 11 23 at 7.23.28 PM" border="0" style="width: 75%; height: auto;">
-<img src="https://img2.pic.in.th/pic/Screen-Shot-2024-11-23-at-7.24.08-PM.png" alt="Screen Shot 2024 11 23 at 7.24.08 PM" border="0" style="width: 75%; height: auto;">
+<img src="https://img5.pic.in.th/file/secure-sv1/Screen-Shot-2024-11-23-at-7.24.08-PM.png" alt="Screen Shot 2024 11 23 at 7.24.08 PM" border="0" style="width: 75%; height: auto;">
 <img src="https://img2.pic.in.th/pic/Screen-Shot-2024-11-23-at-7.25.08-PM.png" alt="Screen Shot 2024 11 23 at 7.25.08 PM" border="0" style="width: 75%; height: auto;">
 
 ---
